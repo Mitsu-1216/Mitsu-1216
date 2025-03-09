@@ -1,4 +1,4 @@
-## Hi Mitsu! 👋✨
+## Hi! I'm Mitsu! 👋✨
 
 I'm a software developer passionate about open-source projects and web development.
 
