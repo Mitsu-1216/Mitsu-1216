@@ -1,16 +1,20 @@
-## Hi there 👋
+## Hi Mitsu! 👋✨
 
-<!--
-**Mitsu-1216/Mitsu-1216** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a software developer passionate about open-source projects and web development.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on ...Java
+- 🌱 I’m currently learning ...Java, JavaScript, PHP
+## Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Languages**: Java, C#, VB.NET, JavaScript, Python, 
+- **Frameworks**: Springboot, Node.js, WPF
+- **Tools**: Git, VS Code
+
+- **バッジ**: Shields.ioを使ってバッジを追加し、スキルやステータスを表示できます。
+- **GIF**: 楽しいアニメーションや画像を追加して、プロフィールを魅力的に見せましょう。
+
+```markdown
+## Badges
+
+![GitHub followers](https://img.shields.io/github/followers/username?label=Follow&style=social)
+![Twitter Follow](https://img.shields.io/twitter/follow/username?style=social)
