@@ -10,9 +10,6 @@ I'm a software developer passionate about open-source projects and web developme
 - **Frameworks**: Springboot, Node.js, WPF
 - **Tools**: Git, VS Code
 
-- **バッジ**: Shields.ioを使ってバッジを追加し、スキルやステータスを表示できます。
-- **GIF**: 楽しいアニメーションや画像を追加して、プロフィールを魅力的に見せましょう。
-
 ```markdown
 ## Badges
 
