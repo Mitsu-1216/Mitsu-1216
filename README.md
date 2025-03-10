@@ -13,9 +13,9 @@ I'm a software developer passionate about open-source projects and web developme
 - **🧪Databases**: PostgresSQL, MySQL, SQL Server, DB2
 - **🧰Tools**: Git, Visual Studio, VS Code, Eclipse
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?Mitsu-1216=Mitsu-1216&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" /></p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Mitsu-1216&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" /></p>
 
-<img src="https://github-readme-stats.vercel.app/api?Mitsu-1216=Mitsu-1216&show_icons=true&locale=en&theme=chartreuse-dark" alt="ovi" width="410" /></p>
+<img src="https://github-readme-stats.vercel.app/api?username=Mitsu-1216&show_icons=true&locale=en&theme=chartreuse-dark" alt="ovi" width="410" /></p>
 
 
-<img src="https://github-profile-trophy.vercel.app/?Mitsu-1216=Mitsu-1216&theme=juicyfresh&no-bg=true" />
+<img src="https://github-profile-trophy.vercel.app/?username=Mitsu-1216&theme=juicyfresh&no-bg=true" />
