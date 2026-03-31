@@ -19,7 +19,7 @@ I have developed a strong desire to contribute to companies that create tangible
 
 ---
 
-## Skills
+## 💻 Skills
 
 - 🌐 Languages: Java, C#, VB.NET, JavaScript, PL/SQL, Python
 - 🛠 Frameworks: Spring Boot, Node.js, WPF
@@ -39,12 +39,5 @@ I have developed a strong desire to contribute to companies that create tangible
 
 ## 📊 GitHub Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=Mitsu-1216&layout=compact&theme=chartreuse-dark&cache_seconds=1800)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mitsu-1216&show_icons=true&theme=chartreuse-dark&cache_seconds=1800)
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Mitsu-1216&theme=juicyfresh&no-bg=true)
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:98FB98,100:00FA9A&height=150&section=header&text=Welcome!&fontSize=30" />
 
-![snake gif](https://github.com/Mitsu-1216/Mitsu-1216/blob/output/github-contribution-grid-snake.svg)
