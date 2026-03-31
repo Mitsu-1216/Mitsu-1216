@@ -3,7 +3,7 @@
 I'm a software developer passionate about open-source projects and web development.👩‍💻✨
 
 - 🔭 I’m currently working on ...Java
-- 🌱 I’m currently learning ...Java, JavaScript, Python
+- 🌱 I’m currently learning ...Java, JavaScript, Python, Go
 
   
 ## Skills
